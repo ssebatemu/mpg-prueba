@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1, El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports | Paramount+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
