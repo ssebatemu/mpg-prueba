@@ -3,6 +3,9 @@
 #EXTINF:-1, Telefe
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781045241~exp=1781052441~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=cac75eb1f57afbaca9486035ef269290fd46a7ebd13c6bcc99f50d07a1b7e14d
 
+#EXTINF:-1, Telefe 2
+http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
+
 #EXTINF:-1, El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
