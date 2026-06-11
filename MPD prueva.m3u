@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1, Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1781295943~acl=%2f*~data=hdntl~hmac=86ad34539a5f409b3d5c8b6cc0a18e1e41660bbc3447b402c31889a00adf03f7/master-mtlf.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781199509~exp=1781206709~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=526be6cb33ddf942d88975759fa4df6ff9ba685dc93719e5680e8f9d46e8e250
 
 #EXTINF:-1, Telefe 2
-http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
+http://190.7.19.197:232/play/a059/index.m3u8
 
-#EXTINF:-1, El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+#EXTINF:-1, La 1
+http://176.65.146.99:8401/play/a094/index.m3u8
 
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="TDT 🇪🇸",LA 1 UHD
