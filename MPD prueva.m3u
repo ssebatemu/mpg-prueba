@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1, Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781186189~exp=1781193389~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=dac05e239e069d960f4e9969c57bf66d32cf1ce005cec122fa1d1d5fe55f64ca
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1781295943~acl=%2f*~data=hdntl~hmac=86ad34539a5f409b3d5c8b6cc0a18e1e41660bbc3447b402c31889a00adf03f7/master-mtlf.m3u8
 
 #EXTINF:-1, Telefe 2
 http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
@@ -10,9 +10,12 @@ http://10.1.95.10/Live/48cc194c4b24778951b317ad23cde083/telefe.playlist.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 
-#EXTM3U 
-
-
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="TDT 🇪🇸",LA 1 UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a59f97a6d940e8a388c88e957d24fc:a9e6c7adbbf125654827f89df47fe896
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVE
 
 
 
