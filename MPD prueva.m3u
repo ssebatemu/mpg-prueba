@@ -85,7 +85,7 @@ http://176.65.146.99:8401/play/a094/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="DSports +" tvg-logo="http://i.ibb.co/QFtXtLZr/DSports.png", CENC 
+#EXTINF:-1 , FOX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
